@@ -13,7 +13,7 @@ The goals / steps of this project are the following:
 [image1]: ./output_images/Vehicles.JPG
 [image2]: ./output_images/Non-vehicles.JPG
 [image3]: ./output_images/HOG_image.JPG
-[image4]: ./output_images/Boxes.JPG
+[image4]: ./output_images/boxes.JPG
 [image5]: ./output_images/Heatmap.JPG
 [video1]: ./project_video.mp4
 
